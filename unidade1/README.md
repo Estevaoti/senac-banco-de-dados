@@ -109,12 +109,10 @@
     </td>
     <td>
         <h3>Redis</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="LINK DA ATIVIDADE"><img src="https://dkrn4sk0rn31v.cloudfront.net/2019/09/13110046/31.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="www.linkedin.com/in/estevão-enoque-israel-de-melo-campelo-230b44271">Estevão</a></li>
+        <li><a href="https://www.linkedin.com/in/allana-patricia-5253ab382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">ALLANA</a></li>      
     </td>
     <td>
         <h3>Microsoft Access</h3>
